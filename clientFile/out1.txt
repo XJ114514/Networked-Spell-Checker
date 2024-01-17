@@ -1,0 +1,7 @@
+appl - MISSPELLED
+banana - OK
+orage - MISSPELLED
+grape - OK
+drgon fruit - MISSPELLED
+strawberry - OK
+pneapple - MISSPELLED
